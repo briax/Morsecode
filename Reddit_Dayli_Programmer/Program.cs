@@ -12,7 +12,6 @@ namespace Reddit_Dayli_Programmer
         static void Main(string[] args)
         {
             Dictionary<char, string> dictionary = new Dictionary<char, string>();
-
             StringBuilder sb = new StringBuilder();
 
             dictionary.Add('a', ".-");
